@@ -2,7 +2,7 @@ Here’s a `README.md` file content template for your project. You can adapt and
 
 ---
 
-# **Real-Time Multimodal Emotion and Thought Interpretation using Transformer-based Generative AI for Mental Well-Being**
+# **Real-Time Multimodal Emotion and Thought Interpretation using Transformer-based Generative AI for Mental Wellness**
 
 This repository contains the code and resources for a competitive hackathon project. The goal is to develop a multimodal AI system capable of reading and interpreting human thoughts and emotions in real-time while maintaining privacy, autonomy, and ethical standards. The solution leverages Transformer-based architecture and Intel oneAPI optimizations for performance and scalability.
 
